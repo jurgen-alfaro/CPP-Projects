@@ -75,7 +75,6 @@ void performAction(char inputOption) {
             todosList.push_back(newTodo);
             break;
         case 'c': 
-            
             std::cout << "Enter id to mark completed: ";
             std::cin >> inputId;
             
@@ -96,8 +95,6 @@ void performAction(char inputOption) {
 
 int main () {
     char inputOption;
-    int inputId;
-    std::string inputDescription;
     std::string version = "v0.2.0";
 
     todosList.clear();
