@@ -54,7 +54,12 @@
         "xutility": "cpp",
         "vector": "cpp",
         "string": "cpp",
-        "iomanip": "cpp"
+        "iomanip": "cpp",
+        "chrono": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "optional": "cpp",
+        "sstream": "cpp"
     },
     "code-runner.runInTerminal": true
 }
